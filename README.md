@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Ingnite Feed é uma página que contém um Feed de postagem de mensagem, com área para postar comentários e opções de "deletar" e "aplaudir" caso tenha gostado dom comentário postado.
 
-- [Visite o projeto online](https://felipe-ago.github.io/ignite-react-project1-ts/)
+- [Visite o projeto online](https://ignite-react-project1-ts.netlify.app)
 
 ## 🔖 Layout
 
