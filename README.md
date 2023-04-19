@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - Git e Github
 - Figma
+- Netlify
 
 ## 💻 Projeto
 
